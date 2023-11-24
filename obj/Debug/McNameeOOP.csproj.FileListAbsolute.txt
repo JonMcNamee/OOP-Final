@@ -1,0 +1,8 @@
+C:\0-Winter2023\OOP\McNameeOOP\bin\Debug\McNameeOOP.exe.config
+C:\0-Winter2023\OOP\McNameeOOP\bin\Debug\McNameeOOP.exe
+C:\0-Winter2023\OOP\McNameeOOP\bin\Debug\McNameeOOP.pdb
+C:\0-Winter2023\OOP\McNameeOOP\obj\Debug\McNameeOOP.csproj.AssemblyReference.cache
+C:\0-Winter2023\OOP\McNameeOOP\obj\Debug\McNameeOOP.csproj.SuggestedBindingRedirects.cache
+C:\0-Winter2023\OOP\McNameeOOP\obj\Debug\McNameeOOP.csproj.CoreCompileInputs.cache
+C:\0-Winter2023\OOP\McNameeOOP\obj\Debug\McNameeOOP.exe
+C:\0-Winter2023\OOP\McNameeOOP\obj\Debug\McNameeOOP.pdb
